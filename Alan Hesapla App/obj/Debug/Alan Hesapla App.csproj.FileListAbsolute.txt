@@ -1,0 +1,10 @@
+C:\Users\mrt_b\source\repos\Alan Hesapla App\Alan Hesapla App\bin\Debug\Alan Hesapla App.exe.config
+C:\Users\mrt_b\source\repos\Alan Hesapla App\Alan Hesapla App\bin\Debug\Alan Hesapla App.exe
+C:\Users\mrt_b\source\repos\Alan Hesapla App\Alan Hesapla App\bin\Debug\Alan Hesapla App.pdb
+C:\Users\mrt_b\source\repos\Alan Hesapla App\Alan Hesapla App\obj\Debug\Alan Hesapla App.csprojAssemblyReference.cache
+C:\Users\mrt_b\source\repos\Alan Hesapla App\Alan Hesapla App\obj\Debug\Alan_Hesapla_App.Form1.resources
+C:\Users\mrt_b\source\repos\Alan Hesapla App\Alan Hesapla App\obj\Debug\Alan_Hesapla_App.Properties.Resources.resources
+C:\Users\mrt_b\source\repos\Alan Hesapla App\Alan Hesapla App\obj\Debug\Alan Hesapla App.csproj.GenerateResource.cache
+C:\Users\mrt_b\source\repos\Alan Hesapla App\Alan Hesapla App\obj\Debug\Alan Hesapla App.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\source\repos\Alan Hesapla App\Alan Hesapla App\obj\Debug\Alan Hesapla App.exe
+C:\Users\mrt_b\source\repos\Alan Hesapla App\Alan Hesapla App\obj\Debug\Alan Hesapla App.pdb
